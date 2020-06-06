@@ -22,11 +22,22 @@
 
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Hallym University
+  #link: Link to company (optional)
+  job_title: Research Intern
+  dates: Jan.2019 - June.2019
   quote: >
-   Short description of the company (optional)
+   Advisor: Prof.Kyung Won Kim
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Regenerative Neurobiology(RN) Lab, Hallym University, Korea
+    
+ # Experience template
+- layout: left
+  company: Hallym University
+  #link: Link to company (optional)
+  job_title: Research Intern
+  dates: June.2017 - Present
+  quote: >
+   Advisor: Prof.Jongseok Lee
+  description: | # this will include new lines to allow paragraphs
+    Intelligent Healthcare Lab, Hallym University, Korea  
