@@ -11,6 +11,17 @@
     
 # Experience template
 - layout: left
+  company: POSTECH
+  #link: Link to company (optional)
+  job_title: Research Intern
+  dates: Jan.2020
+  quote: >
+   Advisor: Prof.Sung-Min Park
+  description: | # this will include new lines to allow paragraphs
+    Innovative Medical Solution(IMS) Lab, Pohang University of Science and Technology, Korea
+
+# Experience template
+- layout: left
   company: Company name
   link: Link to company (optional)
   job_title: Job title
