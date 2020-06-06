@@ -1,5 +1,16 @@
 # Experience template
 - layout: left
+  company: Seoul National University
+  #link: Link to company (optional)
+  job_title: Intern
+  dates: Feb.2020
+  quote: >
+   Dept of Clinical Pharmacology and Therapeutics, SNU College of Medicine, Korea
+  description: | # this will include new lines to allow paragraphs
+    the 32nd Internship program
+    
+# Experience template
+- layout: left
   company: Company name
   link: Link to company (optional)
   job_title: Job title
