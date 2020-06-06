@@ -69,9 +69,13 @@ education_title: Education #(Use this to override about education section title)
 # More Section
 more_title: Awards and Honors #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  2019      **Tae-Joon Park Institute the 6th Undergraduate & Graduate Students Essay Competition**, POSTECH, Korea
-            -3rd place
-            -The title of the essay: *In AI society, Toward AI for society: Medical Artificial Inrelligence*
+  2019      
+  
+  **Tae-Joon Park Institute the 6th Undergraduate & Graduate Students Essay Competition**, POSTECH, Korea
+            
+  -3rd place
+            
+  -The title of the essay: *In AI society, Toward AI for society: Medical Artificial Inrelligence*
   
   
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
