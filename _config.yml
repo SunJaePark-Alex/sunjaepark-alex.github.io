@@ -4,6 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: SunJae Park
+| @Seoul, South Korea
 title: Undergraduate
 email: sunjaepark@kakao.com
 phone: #Your phone number (optional)
@@ -43,7 +44,7 @@ github_username:  SunJaePark-Alex
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About
+about_title: About Me
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
