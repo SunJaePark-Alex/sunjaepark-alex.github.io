@@ -4,8 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: SunJae Park
-title: Undergraduate 
-// @Seoul, South Korea
+title: Undergraduate
+title: @Seoul, South Korea
 email: sunjaepark@kakao.com
 phone: #Your phone number (optional)
 website: #Your website (eg. https://google.com)(optional)
