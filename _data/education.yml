@@ -1,12 +1,14 @@
 # Education Template
 - layout: left
-  name: JoongDong High School
-  dates: Mar.2011~Feb.2014
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Hallym University
+  dates: Mar.2017~Feb.2021
+  qualification: Bachelor's Degree
   quote: >
-    Short institution or course description (optional)
+    Advisors: Prof.Jongseok Lee & Prof.Changik Jo
+    GPA 4.26/4.50
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Major: Medical Science Convergence
+    Double Major: Convergence Program of Healthcare Diagnostics
 
 # Education Template
 - layout: left
