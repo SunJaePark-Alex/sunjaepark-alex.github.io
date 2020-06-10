@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Biomedical Informatics
     - Medical AI(Artificial Intelligence)
     - Digital Healthcare
-    - <a href="google.com">Links</a>
+    - <a href="www.google.com">Links</a>
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)
