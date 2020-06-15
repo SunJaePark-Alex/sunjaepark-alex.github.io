@@ -101,6 +101,9 @@ more_content: | # this will include new lines to allow paragraphs
   
   -Hallym Global Leader Program
 
+more_title: Awards and Honors #(Use this to override about more section title)
+more_content: 
+
 # Footer
 footer_show_references: true
 
