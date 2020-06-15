@@ -101,6 +101,7 @@ more_content: | # this will include new lines to allow paragraphs
   
   -Hallym Global Leader Program
 
+# More Section
 more_title: Awards and Honors #(Use this to override about more section title)
 more_content: 
 
