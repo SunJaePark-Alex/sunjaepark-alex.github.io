@@ -57,6 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Medical AI(Artificial Intelligence)
     - Digital Healthcare
     - <a href="https://scholar.google.ca/schhp?hl=ko">Google Scholar</a>
+    - <a href="https://sunjaepark.tistory.com/">Blog</a>
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)
