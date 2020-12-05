@@ -1,5 +1,17 @@
 # Education Template
 - layout: left
+  name: Seoul National University
+  dates: Mar.2021~Present
+  qualification: PhD Student
+  quote: >
+    Advisors: Prof.
+  description: | # this will include new lines to allow paragraphs
+    Major: Biomedical Sciences(Data Sience & AI in Medicine/Healthcare)
+    
+
+
+# Education Template
+- layout: left
   name: Hallym University
   dates: Mar.2017~Feb.2021
   qualification: Bachelor's Degree
