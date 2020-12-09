@@ -4,8 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: SunJae Park
-title: Undergraduate
-email: sunjaepark at kakao.com
+title: PhD Student
+email: sunjaepark at snu.ac.kr
 phone: +82-10-xxxx-xxxx
 website: Seoul, South Korea
 #Your website (eg. https://google.com)(optional)
@@ -47,7 +47,7 @@ github_username:  SunJaePark-Alex
 about_title: About Me
 about_profile_image: /automaton.png
 about_content: | # this will include new lines to allow paragraphs
-  I am an undergraduate student at Hallym University. You can read [my cv](http://foobar.com).
+  I am a PhD student at Seoul National University. You can read [my cv](http://foobar.com).
 
 
 
